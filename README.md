@@ -30,3 +30,15 @@ Kasutajate lisamine failist kasutajate nimedega. Paroolid genereeritakse automaa
 
 Kasutajate lisamine failist kasutajate nimedega. Paroolid genereeritakse automaatselt. Skript loeb failist kasutajad ning lisab nad süsteemi. Kasutajatele määratakse automaatselt genereeritud paroolid.
 **Skript kontrollib, kas skripti käivitaja on root kasutaja. Kui ei ole, siis skript lõpetab töö.**
+
+## [Praks 2](/praks2/)
+
+### [Apache paigaldus](praks2/apache_paigaldus.sh)
+
+Apache2 paigaldamine. Skript kontrollib, kas Apache2 on juba paigaldatud. Kui ei ole, siis paigaldab Apache2 linuxi masinasse ja käivitab selle.
+
+## Andmete varundamine
+
+### [Andmete varundamine](praks2/varundamine.sh)
+
+Andmete varundamine. Skript salvestab kasutaja poolt sisestatud kausta andmed tar.gz faili. Skript küsib kasutajalt kausta nime, mida soovitakse varundada ja kausta nime, kuhu soovitakse varundatud faili salvestada.

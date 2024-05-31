@@ -39,6 +39,6 @@ Apache2 paigaldamine. Skript kontrollib, kas Apache2 on juba paigaldatud. Kui ei
 
 ## Andmete varundamine
 
-### [Andmete varundamine](praks2/andmete_varundamine.sh)
+### [Andmete varundamine](/andmete_varundamine.sh)
 
 Andmete varundamine. Skript salvestab kasutaja poolt sisestatud kausta andmed tar.gz faili. Skript küsib kasutajalt kausta nime, mida soovitakse varundada ja kausta nime, kuhu soovitakse varundatud faili salvestada.
